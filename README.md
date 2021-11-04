@@ -1,5 +1,5 @@
 
-Hebrew App 
+Hebrew App:
 A Quizlet inspired web application that allows users to learn Ancient and Modern Hebrew
 with features that enable users to create study lists and store saved lists to a database.
 • Users also have the capability of registering, logging in/out and JWT
